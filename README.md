@@ -1,3 +1,13 @@
+# Hi there, I'm e-Phi 👋
+
+🎓 **Student**  
+💻 **Programming in:** Python, C++  
+♟️ **Chess Enthusiast**  
+🏆 **Codeforces:** [utkarsh_shandilya](https://codeforces.com/profile/utkarsh_shandilya)
+
+---
+
+Minimal, focused, and always learning.
 ## Hi there 👋
 
 <!--
