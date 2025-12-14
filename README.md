@@ -1,13 +1,10 @@
 # Hi there, I'm e-Phi 👋
-
-🎓 **Student**  
+ 
 💻 **Programming in:** Python, C++  
-♟️ **Chess Enthusiast**  
+🎓 **Student at IIT Kanpur** 
 🏆 **Codeforces:** [utkarsh_shandilya](https://codeforces.com/profile/utkarsh_shandilya)
 
 ---
-
-Minimal, focused, and always learning.
 
 <!--
 **e-Phi/e-Phi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
