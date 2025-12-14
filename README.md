@@ -1,7 +1,7 @@
 # Hi there, I'm e-Phi 👋
  
 💻 **Programming in:** Python, C++  
-🎓 **Student at IIT Kanpur** 
+🎓 **Student at IIT Kanpur**   
 🏆 **Codeforces:** [utkarsh_shandilya](https://codeforces.com/profile/utkarsh_shandilya)
 
 ---
